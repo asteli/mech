@@ -2,7 +2,7 @@
 
 ## Haha pretty picture
 
-![Headlamp attached to mount on helmet](https://assets.digitalocean.com/articles/alligator/boo.svg "Mounted with headlamp.")
+![Headlamp attached to mount on helmet](https://github.com/asteli/mech/raw/main/nvg-shroud/assets/mounted.jpg "Mounted with headlamp.")
 
 ## What is this?
 This is an adhesive mounting plate for equipment that mounts to standard FAST/MICH/ACH NVG shrouds. You can print this object and use VHB tape (I recommend using the slightly thicker stuff that gets used to attach GoPro mounts, T=1.6mm).
