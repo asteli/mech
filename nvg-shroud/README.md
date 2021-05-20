@@ -5,6 +5,9 @@
 ![Headlamp attached to mount on helmet](https://github.com/asteli/mech/raw/main/nvg-shroud/assets/mounted.jpg "Mounted with headlamp.")
 ![Mount on helmet, no device.](https://github.com/asteli/mech/raw/main/nvg-shroud/assets/unmounted.jpg "On helmet, nothing installed.")
 
+## Printing this thing
+I got good results on a Prusa Mk3. Lay the mount on its side (the skinny and long face) and use supports. I used 0.1mm layer height.
+One day I might get around to trying lost PLA aluminum casting. That would be cool. Sigh.
 
 ## What is this?
 This is an adhesive mounting plate for equipment that mounts to standard FAST/MICH/ACH NVG shrouds. You can print this object and use VHB tape (I recommend using the slightly thicker stuff that gets used to attach GoPro mounts, T=1.6mm).
